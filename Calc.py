@@ -3,7 +3,7 @@ import Subtraction
 import Multiplication
 import Division
 
-print("Select Hurkat.")
+print("Select Operation.")
 print("1.Add")
 print("2.Subtract")
 print("3.Multiply")
